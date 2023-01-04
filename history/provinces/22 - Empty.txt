@@ -11,4 +11,6 @@ base_manpower = 1
 culture = debug_culture
 religion = debug_religion
 
-trade_goods = unknown
+trade_goods = fish
+
+hre = no

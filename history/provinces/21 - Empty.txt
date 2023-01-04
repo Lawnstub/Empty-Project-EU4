@@ -1,6 +1,5 @@
 is_city = yes
 
-add_core = Z98
 owner = Z98
 controller = Z98
 
@@ -11,4 +10,6 @@ base_manpower = 1
 culture = debug_culture
 religion = debug_religion
 
-trade_goods = unknown
+trade_goods = fish
+
+hre = no
