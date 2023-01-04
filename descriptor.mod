@@ -11,6 +11,7 @@ replace_path="customizable_localization"
 replace_path="decisions"
 replace_path="events"
 replace_path="missions"
+replace_path="localisation"
 
 replace_path="common/advisortypes"
 replace_path="common/ages"
