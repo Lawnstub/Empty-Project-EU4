@@ -5,3 +5,15 @@ religion = debug_religion
 primary_culture = debug_culture
 capital = 21
 government_rank = 1
+1440.10.1{
+	monarch = {
+		name = Erik				        # Name of the ruler
+		dynasty = Scotland         		# Dynasty of the ruler
+		adm = 2                 		# ADM skill of the ruler
+		dip = 2                 		# DIP skill of the ruler
+		mil = 2                			# MIL skill of the ruler
+		birth_date = 1400.1.2         	# Used to set the age of the ruler. Derived from the date of the history entry the monarch scope is found in.
+		religion = debug_religion       # The religion of the ruler
+		culture = debug_culture         # The culture of the ruler
+	}
+}
