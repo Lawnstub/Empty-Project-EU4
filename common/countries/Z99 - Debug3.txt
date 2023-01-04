@@ -52,7 +52,6 @@ monarch_names = {
 	"Ignatz #0" = 0
 	"Markus #0" = 0
 	"Raphael #0" = 0
-	"Rüdiger #0" = 0
 	
 	"Aleida #0" = -1
 	"Cordula #0" = -1
@@ -62,9 +61,7 @@ monarch_names = {
 leader_names = {
 	Blittersdorf
 	"von Gelnhausen"
-	"von Schöneck"
 	"von Dieblich"
-	Cölln
 	Bensenraede
 	Adenau
 	Gruithausen
