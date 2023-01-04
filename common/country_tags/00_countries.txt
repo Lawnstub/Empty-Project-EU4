@@ -3,4 +3,6 @@ REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
-DBG = "countries/DBG - Debug.txt"
+Z97 = "countries/Z97 - Debug.txt"
+Z98 = "countries/Z98 - Debug2.txt"
+Z99 = "countries/Z99 - Debug3.txt"

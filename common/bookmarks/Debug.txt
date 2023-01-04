@@ -2,7 +2,7 @@ bookmark =
 {
 	name = "BOOKMARK_NAME"
 	desc = "BOOKMARK_DESC"
-	date = 1492.1.1
+	date = 1444.10.20
 	
-	country = DBG
+	country = Z97
 }

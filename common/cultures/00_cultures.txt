@@ -13,7 +13,7 @@ debug_culture_group = {
 	male_names = { Name }
 	
 	debug_culture = {
-		primary = DBG
+		primary = Z98
         
 		male_names = {
 			Name

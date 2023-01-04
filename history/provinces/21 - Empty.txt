@@ -1,8 +1,8 @@
 is_city = yes
 
-add_core = Z97
-owner = Z97
-controller = Z97
+add_core = Z98
+owner = Z98
+controller = Z98
 
 base_tax = 1
 base_production = 1
